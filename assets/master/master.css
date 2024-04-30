@@ -47,7 +47,7 @@
                 position: fixed;
                 bottom: 18px;
                 right: 20px;
-                filter: blur(8px);
+                filter: blur(7px);
 
                 &:nth-of-type(1) {
                     background-image: linear-gradient(to left top, #1653ac, #114999, #0c3e87, #073575, #032b63, #002a6a, #002870, #002676, #002995, #0029b4, #0027d3, #001ff1);
@@ -57,9 +57,7 @@
                 }
 
                 &:nth-of-type(2) {
-                    background: #5c258d;
-                    background: -webkit-linear-gradient(to right, #5c258d, #4389a2);
-                    background: linear-gradient(to right, #5c258d, #4389a2);
+                    background-image: linear-gradient(to right top, #ffffff, #dbd6ed, #baadd9, #9b85c4, #7f5dad, #6b60b7, #4d63c1, #0067c9, #0090e4, #00b6f0, #00d9f3, #5ffbf1);
                     border-radius: 47% 53% 78% 22% / 100% 0% 100% 0%;
 
                     animation: imgButtomAnime2 7s ease-in-out alternate infinite;
