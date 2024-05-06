@@ -1,9 +1,10 @@
 # Animation-MiniPrj
 
-**If you have a lot of information to display on your site, why don't you use my accordion menu**
 
 ![miniPrjCar](https://github.com/zohreFaraji/animationMiniPrj030210/assets/165832749/29792623-6422-4cf5-8844-06e892c806c5)
 
+ **You can see information about my project**
+ 
 - [Demo Project](https://zohrefaraji.github.io/animationMiniPrj030210/)
 
 - Developed by zohre faraji
